@@ -1,7 +1,7 @@
 # ChefEasyMobileApp
 
-![Logo](https://github.com/MasSica/ChefEasyMobileApp/tree/main/Views/Images/logo.png)
 
+<img src="https://github.com/MasSica/ChefEasyMobileApp/tree/main/Views/Images/logo.png" width=50% height=50%>
 
 React based application developed to allow user to search for chefs in their area and book their services at home, and it was developed for the "Design and Implementationn of Mobile Applications" course at Politecnico di Milano 
 
